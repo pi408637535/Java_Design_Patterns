@@ -7,6 +7,10 @@
     <groupId>com.study</groupId>
     <artifactId>Java_Design_Patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>proxy_pattern</module>
+        <module>decorator_pattern</module>
+    </modules>
     <packaging>pom</packaging>
 
 
