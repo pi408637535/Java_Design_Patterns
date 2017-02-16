@@ -16,6 +16,9 @@
         <module>strategy_pattern</module>
         <module>flyweight_pattern</module>
         <module>observer_pattern</module>
+        <module>composite_pattern</module>
+        <module>iterator_pattern</module>
+        <module>adapter_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
