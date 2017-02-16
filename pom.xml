@@ -15,6 +15,7 @@
         <module>abstract_factory_pattern</module>
         <module>strategy_pattern</module>
         <module>flyweight_pattern</module>
+        <module>observer_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
