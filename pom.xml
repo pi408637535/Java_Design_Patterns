@@ -13,6 +13,7 @@
         <module>simple_factory_pattern</module>
         <module>factory_method_pattern</module>
         <module>abstract_factory_pattern</module>
+        <module>strategy_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
