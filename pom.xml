@@ -19,6 +19,7 @@
         <module>composite_pattern</module>
         <module>iterator_pattern</module>
         <module>adapter_pattern</module>
+        <module>chain_responsibility_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
