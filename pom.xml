@@ -20,6 +20,9 @@
         <module>iterator_pattern</module>
         <module>adapter_pattern</module>
         <module>chain_responsibility_pattern</module>
+        <module>template_method_pattern</module>
+        <module>bridge_pattern</module>
+        <module>mediator_pattern</module>
     </modules>
     <packaging>pom</packaging>
 
